@@ -11,6 +11,8 @@ body {
     overflow-x: hidden;
 }
 
+
+
 p, span { color: #999; }
 hr { 
     border-top-color: #CCC; 
@@ -594,4 +596,8 @@ a:hover figcaption { color: #056767; }
 @media (max-width: 380px) {
     .tm-person img { max-width: 120px; }
 }
+
+
+
+
 
